@@ -1,6 +1,6 @@
 Name:		python-pyqrcode
 Version:	1.2.1
-Release:	1
+Release:	2
 Summary:	A QR code generator written purely in Python with SVG, EPS, PNG and
 License:	BSD-3-Clause
 Group:		Development/Python
